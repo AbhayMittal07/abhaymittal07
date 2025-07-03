@@ -3,7 +3,9 @@
   नमस्ते (Namaste)🙏🏻, I'm Abhay Mittal 
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
-
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhayMittal07.AbhayMittal07" alt="profile visitor badge">
+</p>
 <p><em>Data Scientist 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
