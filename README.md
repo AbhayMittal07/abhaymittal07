@@ -13,7 +13,7 @@
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhayMittal07/YOUR_REPO_NAME/main/luffy.gif" width="600px" />
+  <img src="https://images.app.goo.gl/2kk3bF8YwWqVYx227" width="600px" />
 </p>
 
 - 👨‍💻 I'm a Data Scientist.
