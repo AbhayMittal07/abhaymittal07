@@ -12,7 +12,7 @@
 
 [![Linkedin: Abhay](https://img.shields.io/badge/-Abhay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhay-mittal-5434b330a/)](https://www.linkedin.com/in/abhay-mittal-5434b330a/)
 ![GitHub followers](https://img.shields.io/github/followers/AbhayMittal07?label=Follow&style=social)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif" width="600px" />
