@@ -49,20 +49,14 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhayMittal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## 📈 GitHub Analytics
 
-![](https://nirzak-streak-stats.vercel.app/?user=AbhayMittal07&theme=dark&hide_border=false)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhayMittal07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayMittal07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayMittal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhayMittal07&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbhayMittal07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AbhayMittal07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
